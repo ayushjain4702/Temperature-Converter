@@ -1,0 +1,34 @@
+body{
+    padding: 50px 100px;
+    background-color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+}
+
+#container{
+    text-align: center;
+    background-color: aqua;
+    padding: 50px;
+}
+
+.input_div{
+    display: inline-block;
+}
+
+.input{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+label{
+    font-size: 25px;
+
+}
+
+p{
+    font-weight: bold;
+}
